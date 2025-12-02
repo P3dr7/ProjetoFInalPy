@@ -16,7 +16,6 @@ Encontrar o conjunto ótimo de parâmetros de um modelo de precificação (Black
 - ✅ **Gerador de Dados Sintéticos**: Cria opções realistas para testes
 - ✅ **Interpolação de Taxas**: Carrega e interpola curva de juros livre de risco
 - ✅ **Testes Completos**: Suite de testes com pytest (>90% coverage)
-- ✅ **Código Pythonico**: Type hints, docstrings, PEP 8
 
 ---
 
