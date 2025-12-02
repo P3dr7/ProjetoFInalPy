@@ -2,7 +2,7 @@
 
 ## 📋 Descrição do Projeto
 
-Este projeto implementa um sistema completo de **calibração de modelos de precificação de opções** usando **Algoritmos Evolutivos**. Desenvolvido como projeto final de Engenharia de Software, combina conceitos de finanças quantitativas, otimização evolutiva e boas práticas de desenvolvimento Python.
+Este projeto implementa um sistema completo de **calibração de modelos de precificação de opções** usando **Algoritmos Evolutivos**. Desenvolvido como projeto da materia de IA: ALG. EVOLUTIVOS, combina conceitos de finanças quantitativas, otimização evolutiva e boas práticas de desenvolvimento Python.
 
 ### Objetivo
 
